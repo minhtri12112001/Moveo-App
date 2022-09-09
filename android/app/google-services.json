@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "839996059413",
+    "firebase_url": "https://moveo-app-333ff-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "moveo-app-333ff",
+    "storage_bucket": "moveo-app-333ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839996059413:android:95f252fa49963388e6831c",
+        "android_client_info": {
+          "package_name": "com.example.moveo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839996059413-cldifolfeebnmfl31e01nct63hn09fnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDijEDKYthzBuLD7ONEkxS73kwYjTCVzPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839996059413-cldifolfeebnmfl31e01nct63hn09fnb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "839996059413-25eo2s8phpoolm7pfvra3hvjjhfmckd6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.moveoapp.moveoApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
